@@ -6,7 +6,7 @@
 #include <WiFiClient.h>
 #include <BlynkSimpleEsp32.h>
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "Mukesh"; char pass[] = "mukesh11";
+char ssid[] = "Lokitha"; char pass[] = "lokitha11";
 int IN1 = 4;
 int IN2 = 5;
 int IN3 = 12;
